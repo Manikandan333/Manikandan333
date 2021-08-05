@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manikandan333
 - 👀 I’m interested in Developing code
 - 🌱 I’m currently learning MERN Stack
-- 💞️ Working in TELUS International
+- 💞️ Working at TELUS International
 - 📫 Reach me t.manikandan@telusinternational.com
 
 <!---
